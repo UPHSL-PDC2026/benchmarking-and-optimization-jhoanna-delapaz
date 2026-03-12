@@ -20,4 +20,4 @@ From what I previously mentioned, the `compute_sum()` function bottlenecks due t
 
 ### How did optimization affect performance?
 
-From my experience, optimizing the manual function did help, not totally, but made it slightly faster and reduced overhead. I could say it did result to a better performance compared to the unoptimized version.
+From my experience, optimizing the manual function did help, not totally, but it made it slightly faster and reduced overhead. I could say it did result in a better performance compared to the unoptimized version.
