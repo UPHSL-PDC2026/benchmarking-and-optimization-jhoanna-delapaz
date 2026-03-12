@@ -8,7 +8,7 @@ The **sequential** version was the fastest. The parallel version was slower due 
 
 ### What was the speedup achieved?
 
-The speedup achieved was: `0.6223320958742791` using the computation of serial_time / parallel_time. 
+The speedup achieved was `0.6223320958742791` using the computation of serial_time / parallel_time. 
 
 ### Was efficiency high or low? Why?
 
